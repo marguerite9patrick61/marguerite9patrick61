@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 Student excelling in Java Backend Development.
+- 📫 Skilled in Spring, Hibernate, and Microservices.
+- 🔭 Committed to lifelong learning and innovation.
+
 <!--
 **marguerite9patrick61/marguerite9patrick61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
